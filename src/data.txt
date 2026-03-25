@@ -1,0 +1,5 @@
+expense,market,500.0
+expense,market shopping,500.0
+income,salary,5000.0
+expense,market shopping,500.0
+income,salary,5000.0
